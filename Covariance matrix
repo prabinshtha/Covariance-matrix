@@ -4,7 +4,7 @@ Let's dive deeper into the concepts related to covariance and covariance matrice
 
 1.  **Covariance between Two Variables:** The covariance between two variables, let's say $X$ and $Y$, is a measure of how they vary together. Mathematically, it's defined as the average of the products of their deviations from their respective means:
 
-    $$ \text{cov}(X, Y) = \frac{\sum_{i=1}^{n} (X_i - \bar{X})(Y_i - \bar{Y})}{n} $$
+    \[ \text{cov}(X, Y) = \frac{\sum_{i=1}^{n} (X_i - \bar{X})(Y_i - \bar{Y})}{n} $$ \]
 
     Here, $X_i$ and $Y_i$ are individual observations, $\bar{X}$ and $\bar{Y}$ are the means of $X$ and $Y$, and $n$ is the number of observations.
 
